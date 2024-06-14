@@ -2,7 +2,10 @@
 
 I am a full-stack developer passionate about web3 and the metaverse.
 Please checkout some of my github projects, or live prototypes here:
-  
+
+### [Deconverse](https://deconverse.com/) (2024) — Web3 Chat App
+Chat client utilising XMTP open protocol and transactions on Base.
+
 ### [A Rockstar Ate My NFT](https://github.com/sonicsmith/a-rockstar-ate-my-nft) (2023) — Betting Dapp
 Chainlink hackathon entry using Chainlink Functions and Spotify API.
 
