@@ -1,5 +1,7 @@
 <h1 align="center">Hi , I'm Nic Smith <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sonicsmith)](https://git.io/streak-stats)
+
 I am a full-stack developer passionate about web3 and the metaverse.
 Please checkout some of my github projects, or live prototypes here:
 
