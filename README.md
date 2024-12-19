@@ -1,29 +1,7 @@
-<h1 align="center">Hi , I'm Nic Smith <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I am a full-stack developer passionate about web3 and the metaverse.
+I am a fullstack web3 developer fascinated by decentralization and the cryptosphere. I am a passionate problem solver and believe strongly in staying in the problem space for as long as possible.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sonicsmith)](https://git.io/streak-stats)
+In my free time, I am constantly buidling, and enjoy participating in hackathons.
 
-Please checkout some of my github projects, or live prototypes here:
-
-### [Deconverse](https://deconverse.com/) (2024) — Web3 Chat App
-Chat client utilising XMTP open protocol and transactions on Base.
-
-### [A Rockstar Ate My NFT](https://github.com/sonicsmith/a-rockstar-ate-my-nft) (2023) — Betting Dapp
-Chainlink hackathon entry using Chainlink Functions and Spotify API.
-
-### [Humans Must Die](https://www.humansmustdie.com/) (2023) — GameFi Dapp
-Web2.5 3D webgame utilising account abstraction and Chainlink VRF for fair gameplay.
-
-### [Tokenized Realty](https://tokenized-realty.netlify.app/) (2022) — Insurance Dapp
-Chainlink hackathon entry using Oracles creating a P2P insurance system for realestate insurance.
-
-### [People’s Casino](https://peoplescasino.online/) (2019) — NFT Dapp
-Online gambling / NFT application on Ethereum and Polygon. Total volume 10 ETH on Opensea.
-
-### [Space Miners](space-miners.netlify.app) (2018) — GameFi Dapp
-Simulated mining with bonding curve token mechanics on Ethereum. 
-Used by Blocknative as a [case study](https://www.blocknative.com/blog/space-miners).
-
-### [Ball and Blockchain](https://ball-and-blockchain.vercel.app/) (2018) — Proof of Partnership Dapp 
-Create a permanent, immutable record of your love, on Ethereum.
+My website can be found here: [https://www.nicsmith.dev/](https://www.nicsmith.dev/)
